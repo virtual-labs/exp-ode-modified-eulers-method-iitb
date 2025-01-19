@@ -1,0 +1,20 @@
+[
+   {
+      "question": "$$ x_0 = 0,\\ \\ y_0 = 1 $$ $$ \\frac{dy}{dx} = f(x,y) = x^2+y $$ $$ h = 0.02 $$ $$ Find\\ y(0.02)\\ \\ \\ \\ upto 3 decimal accuracy $$",
+      "qid": 1,
+      "option_a": "2.671",
+      "option_b": "1.312",
+      "option_c": "2.997",
+      "option_d": "0.224",
+      "correct_option": "a"
+   },
+   {
+      "question": "$$ x_1 = 0,\\ \\ y_1 = 1,\\ \\ z_1 = 1 $$ $$ \\frac{dy}{dx} = f(x,y,z) = yz $$ $$ \\frac{dz}{dx} = g(x,y,z) = xy $$ $$ Find\\ z(0.2) $$ $$ Given,\\ \\ n = 2 $$",
+      "qid": 2,
+      "option_a": "1.999",
+      "option_b": "1.011",
+      "option_c": "2.212",
+      "option_d": "2.894",
+      "correct_option": "b"
+   }
+]
