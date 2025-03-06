@@ -1,0 +1,20 @@
+[
+   {
+      "question": "The Modified Euler's method is a",
+      "qid": 1,
+      "option_a": "direct method",
+      "option_b": "indirect method",
+      "option_c": "predictor - corrector method",
+      "option_d": "fixed point iterative method",
+      "correct_option": "c"
+   },
+   {
+      "question": "The predicted value given by Modified Euler's method",
+      "qid": 2,
+      "option_a": "$$ y_p = hf(x_0, y_0) $$",
+      "option_b": "$$ y_p = y_0 + hf(x_0, y_0) $$ ",
+      "option_c": "$$ y_p = y_0 + \\frac{4h}{3}[2f_1 - f_2 + 2f_3] $$",
+      "option_d": "$$y_p = y_3 + \\frac{h}{24}[55f_3 - 59f_2 + 37f_1 - 9f_0] $$",
+      "correct_option": "b"
+   }
+]
